@@ -1,10 +1,7 @@
 #!/usr/bin/env python3
 """
 Ethiopian Aerospace Radar Tracking System
-INSA Summer Camp 2025 - Aerospace Department
-Console-based simulation using core math only
 """
-
 import math
 import random
 import time
